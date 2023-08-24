@@ -1,4 +1,4 @@
-# cars?-redux?toolkit
+# cars_redux_toolkit
 
 It is a small react app with redux/toolkit. 
 You can create a car-list by entering desired car brands and prices.
