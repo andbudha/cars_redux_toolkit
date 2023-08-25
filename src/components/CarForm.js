@@ -25,7 +25,7 @@ export const CarForm = () => {
                     <div className="field">
                         <label className="label">Name</label>
                         <input
-                            className="innput is-expanded"
+                            className="input is-expanded"
                             value={name}
                             onChange={handleNameChange}
                         />
@@ -33,7 +33,7 @@ export const CarForm = () => {
                     <div className="field">
                         <label className="label">Cost</label>
                         <input
-                            className="innput is-expanded"
+                            className="input is-expanded"
                             value={cost || ''}
                             onChange={handleCostChange}
                             type="number"
